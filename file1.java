@@ -3,3 +3,5 @@ pwd
 cd 
 mkdir
 adding another line in it
+adding some more lines to 
+git folder
